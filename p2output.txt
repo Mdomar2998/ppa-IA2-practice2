@@ -1,1 +1,16 @@
+ gcc -g p2original.c;./a.out
+enter the sides
+44
+enter the sides
+44
+enter the sides
+44
+triangle is not scalene gcc -g p2original.c;./a.out
+enter the sides
+44
+enter the sides
+45
+enter the sides
+46
+triangle is scalene 
 
