@@ -1,1 +1,3 @@
-
+gcc -g p3original.c;./a.out
+enter the value8
+it is composite 
