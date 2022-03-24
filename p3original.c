@@ -28,4 +28,5 @@ void main(){
   n=input_number();
   count=is_composite(n);
   output(n,count);
-}
+
+  }
