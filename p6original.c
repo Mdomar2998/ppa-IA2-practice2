@@ -46,5 +46,5 @@ int main()
   str_reverse(rev_str);
   output(str, rev_str);
   return 0;
-}
+  }
 
