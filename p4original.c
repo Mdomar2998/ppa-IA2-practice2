@@ -38,5 +38,4 @@ void main(){
   input_array(n,a);
   sum=sum_composite(n,a);
   output(sum);
-
-}
+  }
